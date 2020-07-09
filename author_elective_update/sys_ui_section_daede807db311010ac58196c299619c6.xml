@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="daede807db311010ac58196c299619c6" sys_domain="global" table="x_58872_needit_approval_level" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-08 18:01:52</sys_created_on>
+            <sys_id>52eda887db311010ac58196c29961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_approval_level" sys_domain="global" view="Default view">daede807db311010ac58196c299619c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-08 18:01:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_58872_needit_approval_level</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-08 18:01:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daede807db311010ac58196c299619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_approval_level</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_daede807db311010ac58196c299619c6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-08 18:01:51</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>981cb8b1db74bbc007072f17d49619a1</instance_id>
+        <instance_name>dev80883</instance_name>
+        <name>sys_ui_section_daede807db311010ac58196c299619c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="daede807db311010ac58196c299619c6" sys_domain="global" table="x_58872_needit_approval_level" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-08 18:01:52</sys_created_on><sys_id>52eda887db311010ac58196c29961905</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_approval_level" sys_domain="global" view="Default view">daede807db311010ac58196c299619c6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-08 18:01:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_58872_needit_approval_level</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-08 18:01:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>daede807db311010ac58196c299619c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_approval_level</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_daede807db311010ac58196c299619c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-08 18:01:51</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>143595280</payload_hash>
+        <record_name>Approval Level</record_name>
+        <reverted_from/>
+        <source>755aa483db311010ac58196c29961902</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-08 18:01:52</sys_created_on>
+        <sys_id>daeda887db311010ac58196c29961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1732f974ec10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-08 18:01:52</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>56eda8870a311010dc12d086bf651006</update_guid>
+        <update_guid_history>56eda8870a311010dc12d086bf651006:143595280,56ede807fc31101047ba714ba582f6c9:1385230226</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-08 18:14:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>17c620bb4cff4c36828f994d10d5adb1</sys_id>
+        <sys_metadata>daede807db311010ac58196c299619c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_approval_level</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">ab6d2487db311010ac58196c2996191d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_daede807db311010ac58196c299619c6</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_daede807db311010ac58196c299619c6">daeda887db311010ac58196c29961906</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-08 18:14:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
